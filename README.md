@@ -36,7 +36,10 @@ O dataset utilizado foi extraído de um arquivo CSV contendo o número de imigra
 ## 📊 Visualização dos Dados
 O gráfico abaixo apresenta as tendências migratórias comparadas entre Brasil 🇧🇷 e Argentina:
 
-(Adicione aqui um gráfico ou gif após execução no notebook)
+![Gráfico de Imigração](https://raw.githubusercontent.com/brodyandre/adicionando_titulos_e_rotulos_em_graficos/d4e2502596505db905ee263ec3ad31a91b0d61fd/grafico_imigracao.png)
+
+
+
 
 Principais observações:
 
