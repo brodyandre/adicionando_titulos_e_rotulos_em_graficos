@@ -32,7 +32,8 @@ Este projeto tem como objetivo analisar e comparar visualmente os dados de imigr
 ## 📂 Fonte de Dados
 O dataset utilizado foi extraído de um arquivo CSV contendo o número de imigrantes por país para o Canadá no período de 1980 a 2013.
 
-O conjunto de dados utilizado neste projeto pode ser acessado diretamente [neste link](https://github.com/brodyandre/nomedoseurepositorio/blob/main/imigrantes_canada.csv).
+O dataset utilizado foi extraído do arquivo CSV disponível neste repositório:  
+[imigrantes_canada.csv](https://github.com/brodyandre/seu-repositorio/blob/main/imigrantes_canada.csv)
 
 ## 📊 Visualização dos Dados
 O gráfico abaixo apresenta as tendências migratórias comparadas entre Brasil 🇧🇷 e Argentina 🇦🇷:
